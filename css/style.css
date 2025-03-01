@@ -513,6 +513,15 @@ body {
 
 @media (max-width: 360px) {
   .title {
-    font-size: 98px;
+    font-size: 120px;
+  }
+}
+
+@media (max-width: 320px) {
+  .title {
+    font-size: 100px;
+  }
+  .menu-btn span {
+    background-color: #000;
   }
 }
