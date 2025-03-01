@@ -81,7 +81,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  height: calc(100vh - 135px);
+  height: calc(100vh - 1px);
 }
 
 .title {
@@ -99,7 +99,7 @@ body {
   position: absolute;
   right: 0;
   left: 0;
-  top: 50px;
+  top: 70px;
   bottom: 0;
   margin: auto;
   max-width: 100%;
